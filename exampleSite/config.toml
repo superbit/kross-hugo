@@ -2,7 +2,7 @@ baseURL = "https://superbit.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "SuperBit"
 [[menu.main]]
 URL = "about"
 name = "About"
